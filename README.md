@@ -1,0 +1,2 @@
+# terraform-training
+self-training 
